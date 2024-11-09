@@ -1,9 +1,9 @@
-# YouTube Analysis
+<ins># YouTube Analysis</ins>
 Personal project in which I analyzed YouTube data. The project's Jupyter Notebook is uploaded above.
 
-**Language**: *Python*
+<ins>**Language**</ins>: *Python*
 
-## Packages/modules used:
+<ins>## Packages/modules used</ins>:
 
 - sys
 - pandas
@@ -22,7 +22,7 @@ Personal project in which I analyzed YouTube data. The project's Jupyter Noteboo
 - os
 - warnings
 
-## Techniques showcased:
+<ins>## Techniques showcased</ins>:
 
 - Importing data (pd.read_csv, pd.read_json, list comprehension)
 - NULL/Duplicates handling
