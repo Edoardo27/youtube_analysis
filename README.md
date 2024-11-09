@@ -22,7 +22,7 @@ Personal project in which I analyzed YouTube data. The project's Jupyter Noteboo
 - os
 - warnings
 
-## <ins>Techniques showcased</ins>:
+## <ins>Techniques/Concepts used</ins>:
 
 - Importing data (pd.read_csv, pd.read_json, list comprehension)
 - NULL/Duplicates handling
