@@ -10,18 +10,21 @@ Personal project in which I analyzed YouTube data.
 - matplotlib.pyplot
 - textblob (TextBlob: sentiment.polarity)
 - wordcloud (WordCloud, STOPWORDS)
-- emoji
+- emoji (EMOJI_DATA)
 - collections (Counter)
 - plotly.graph_objs
 - plotly.offline
 - sqalchemy (create_engine)
 - plotly.express
+- string
+- os
+- warnings
 
 ## Techniques showcased:
 
-- Importing data (pd.read_csv, list comprehension)
+- Importing data (pd.read_csv, pd.read_json, list comprehension)
 - NULL/Duplicates handling
-- Data manipulation
+- Data manipulation: value_counts(), groupby(), size(), sort_values(), reset_index(), rename(), unique(), map(), duplicated(), shape, drop_duplicates(), concat(), DataFrame(), join()
 - List comprehension
 - Dataframe filtering
 - Sentiment analysis
