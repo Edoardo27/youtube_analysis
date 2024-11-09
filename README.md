@@ -1,5 +1,5 @@
 # YouTube Analysis
-Personal project in which I analyzed YouTube data.
+Personal project in which I analyzed YouTube data. The project's Jupyter Notebook is uploaded above.
 
 ## Packages/modules used:
 
