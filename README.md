@@ -1,6 +1,8 @@
 # YouTube Analysis
 Personal project in which I analyzed YouTube data. The project's Jupyter Notebook is uploaded above.
 
+**Language**: Python
+
 ## Packages/modules used:
 
 - sys
@@ -24,11 +26,12 @@ Personal project in which I analyzed YouTube data. The project's Jupyter Noteboo
 
 - Importing data (pd.read_csv, pd.read_json, list comprehension)
 - NULL/Duplicates handling
+- For loops
 - Data manipulation: value_counts(), groupby(), size(), sort_values(), reset_index(), rename(), unique(), map(), duplicated(), shape, drop_duplicates(), concat(), DataFrame(), join()
 - List comprehension
 - Dataframe filtering
 - Sentiment analysis
 - Emoji analysis
 - Correlation analysis
-- Visualization: wordcloud, bar chart, regplot, boxplot, correlation heatmap
+- Data visualization: wordcloud, bar chart, regplot, boxplot, correlation heatmap
 - Exporting Data (csv, JSON, DB)
