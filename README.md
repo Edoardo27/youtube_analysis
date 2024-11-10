@@ -1,5 +1,5 @@
 # <ins>YouTube Analysis</ins>
-Personal project in which I analyzed YouTube data. The project's Jupyter Notebook is uploaded above.
+Personal project in which I analyze data from YouTube. The project's Jupyter Notebook is uploaded above.
 
 **<ins>Language</ins>**: *Python*
 
